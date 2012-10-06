@@ -101,7 +101,7 @@ def mergeParts(directory, partSize, resizedTo):
   
         img.paste(i, (x, y))
 
-    img.save(directory+'xckd.png') 
+    img.save(directory+'xkcd.png') 
 
     print 'Image parts merged successfully!' 
 
