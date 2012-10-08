@@ -1,4 +1,4 @@
 xkcd1110merger
 ==============
 
-Merges xckd strip 1110 parts into a single picture
+Downloads and merges xckd strip 1110 parts into a single picture
